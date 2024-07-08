@@ -27,4 +27,4 @@ This is a simple no nonsense version of Tetris Game Project that has no styling 
 * The basics of HTML
 * Understanding CSS
 
-To Know More About the Instructor : -  https://github.com/kubowania![image](https://github.com/Madhav-P-2005/Basic-Tetris-Game/assets/163096888/69907528-f704-4256-9028-f74dcb0ebcba)
+To Know More About the Instructor : -  https://github.com/kubowania
